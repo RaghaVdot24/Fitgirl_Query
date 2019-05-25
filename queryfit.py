@@ -3,6 +3,8 @@
 Created on Fri Apr 19 10:32:12 2019
 
 @author: Raghav Utpat
+
+A demonstration on how to use the database created by fitgirlcrawl.py
 """
 
 import sqlite3
