@@ -3,6 +3,8 @@
 Created on Wed Apr 17 12:17:10 2019
 
 @author: Raghav Utpat
+
+A demonstration on how to use the database created by fitgirlcrawl.py
 """
 
 import requests
